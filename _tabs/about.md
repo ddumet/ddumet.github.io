@@ -4,8 +4,8 @@ title: À propos
 permalink: /about/
 ---
 
-# Didier DUMET
-## Ingénieur Machine Learning & Architecte Solutions
+# Didier DUMET  
+## Ingénieur Machine Learning & Architecte Solutions 
 
 Bonjour ! [cite_start]Passionné par l'Intelligence Artificielle et fort d'un solide bagage en architecture télécoms, j'aime mettre la technique au service de l'humain et de solutions concrètes (comme l'agro-écologie ou la sécurité)[cite: 75, 78, 92, 93, 94]. [cite_start]Autonome et résilient, j'épanouis mes compétences dans le partage et l'apprentissage continu[cite: 95].
 
