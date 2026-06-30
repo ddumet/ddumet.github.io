@@ -6,15 +6,15 @@ permalink: /about/
 
 # Didier DUMET
 
-## Ingénieur Machine Learning & Architecte Solutions 
+## Ingénieur Machine Learning & Architecte Solutions
 
-Bonjour ! Passionné par l'Intelligence Artificielle et fort d'un solide bagage en architecture télécoms, j'aime mettre la technique au service de l'humain et de solutions concrètes (comme l'agro-écologie ou la sécurité). Autonome et résilient, j'épanouis mes compétences dans le partage et l'apprentissage continu.
+Passionné par l'Intelligence Artificielle et fort d'un solide bagage en architecture télécoms, j'aime mettre la technique au service de l'humain et de solutions concrètes (comme l'agro-écologie ou la sécurité). Autonome et résilient, j'épanouis mes compétences dans le partage et l'apprentissage continu.
 
 ---
 
 ## 🛠️ Compétences Techniques
 
-### Data Science & IA
+### Data Science & IA 
 * **Modélisation & Déploiement :** Analyse descriptive/prédictive, construction et déploiement de modèles IA, IA Générative.
 * **Stack Python :** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, Flask, FastAPI.
 * **Cloud & Data :** AWS, SQL, NoSQL, Graph Databases.
@@ -59,5 +59,5 @@ Contributeur principal et manager pour EGM sur le projet européen **GRACED**, v
 ## 📫 Me contacter
 
 * **Email :** didier.dumet@gmail.com 
-* **LinkedIn :** [linkedin.com/in/didier-dumet](https://www.linkedin.com/in/didier-dumet-24585a5/) 
-* **GitHub :** [github.com/ddumet](https://github.com/ddumet) 
+* **LinkedIn :** [linkedin.com/in/didier-dumet](https://www.linkedin.com/in/didier-dumet-24585a5/)
+* **GitHub :** [github.com/ddumet](https://github.com/ddumet)
