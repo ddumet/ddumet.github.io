@@ -8,7 +8,8 @@ permalink: /about/
 
 ## Ingénieur Machine Learning & Architecte Solutions
 
-Passionnée par l'Intelligence Artificielle depuis mes premiers cours avec Andrew Ng, et fort d'un solide bagage en architecture télécoms grace à mes 12 annèes passé à Londres (Vodafone), j'aime mettre la technique au service de l'humain pour construire des solutions concrètes. Autonome et résilient, je m'épanouis pleinement dans le partage avec mes collègues et l'apprentissage continu.
+Passionnée par l'Intelligence Artificielle depuis mes premiers cours avec Andrew Ng, et fort d'un solide bagage en architecture télécoms grâce à mes 12 annèes passé à Londres (Vodafone), j'aime mettre la technique au service de l'humain pour construire des solutions concrètes.
+Autonome et résilient, je m'épanouis pleinement dans le partage avec mes collègues et l'apprentissage continu.
 
 ---
 
