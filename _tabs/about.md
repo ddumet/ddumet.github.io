@@ -30,21 +30,21 @@ Autonome et résilient, je m'épanouis pleinement dans le partage avec mes coll�
 
 ## Projets & Expériences Clés
 
-### IA & Agro-écologie | Machine Learning Engineer @ Senseen (2020 - 2023)
+### IA & Agro-écologie | Machine Learning Engineer @Senseen (2020 - 2023)
 
-Développement et déploiement sous forme de web services de plusieurs modèles d'IA pour prédire la santé des plantes (viticulture, végétaux) à destination des agriculteurs.
+A destination des Agriculteurs, développement et déploiement sous forme de web services, de plusieurs modèles d'IA pour prédire la santé des plantes (Vigne, Blé, Colza, Orge).
 
-* **Data Sources multi-modales :** Spectromètre NIR, composition des sols, données météo.
-* **Lead :** Collecte de données sur le terrain et management de 2 apprentis Data Scientists.
+* **Data Sources multi-modales :** Spectromètre NIR (de construction SENSEEN), composition des sols, données météo.
+* **Lead :** Collecte de données sur le terrain et management d'apprentis Data Scientists.
 
-### Projet Européen GRACED | Data Scientist & PM @ Easy Global Market (2021 - 2022)
+### Projet Européen GRACED | Data Scientist et Project Manager @Easy Global Market (2021 - 2022)
 
-Contributeur principal et manager pour EGM sur le projet européen **GRACED**, visant à concevoir un capteur photonique innovant pour détecter les contaminations alimentaires.
+Contributeur principal et Project Manager pour le projet européen **GRACED**, visant à concevoir un capteur photonique innovant pour détecter les contaminations alimentaires.
 
 * Définition des cas d'usage IA pour 4 entreprises pilotes.
 * Mise en place des pipelines de collecte de données et gestion des partenariats.
 
-### 🌐 Architecture Grande Échelle | Vodafone & British Telecoms (London, 2004 - 2019)
+###  Architecture Grande Échelle | Vodafone & British Telecoms (London, 2004 - 2019)
 
 * **Vodafone (Principal Solution Architect) :** Conception de services SOA déployés sur 14 marchés mondiaux. Architecte pour *SecureNet* (contrôle parental) déployé sur 8 marchés.
 
