@@ -44,7 +44,7 @@ Contributeur principal et Project Manager pour le projet européen **GRACED**, v
 * Définition des cas d'usage IA pour 4 entreprises pilotes.
 * Mise en place des pipelines de collecte de données et gestion des partenariats.
 
-###  Architecture Grande Échelle | Vodafone & British Telecoms (London, 2004 - 2019)
+### Architecture Grande Échelle | Vodafone & British Telecoms (London, 2004 - 2019)
 
 * **Vodafone (Principal Solution Architect) :** Conception de services SOA déployés sur 14 marchés mondiaux. Architecte pour *SecureNet* (contrôle parental) déployé sur 8 marchés.
 
