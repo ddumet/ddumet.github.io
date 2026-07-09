@@ -46,7 +46,7 @@ Contributeur principal et Project Manager pour le projet européen **GRACED**, v
 
 ### Architecture Grande Échelle | Vodafone & British Telecoms (London, 2004 - 2019)
 
-* **Vodafone (Principal Solution Architect) :** Conception de services SOA déployés sur 14 marchés mondiaux. Architecte pour *SecureNet* (contrôle parental) déployé sur 8 marchés.
+* **Vodafone (Principal Solution Architect) :** Conception de services SOA déployés sur 14 marchés mondiaux. Architecte pour **SecureNet** (contrôle parental) déployé sur 8 marchés.
 
 * **British Telecoms (Solution Architect) :** Modélisation des données et architecture CRM/Billing pour le programme de transformation BT-21C.
 
@@ -56,13 +56,14 @@ Contributeur principal et Project Manager pour le projet européen **GRACED**, v
 
 * ** Bac + 5: ESSTIN (Ecole supérieur des sciences et des technologies de l'ingénieur de Nancy)
 
-* ** Applied MSc in Data Science and AI Sophia Antipolis(2019 - 2020) – *Data Science Tech Institute (DSTI) Diplôme avec mention Très Bien.
+* ** Applied MSc in Data Science and AI, Sophia Antipolis(2019 - 2020) – *Data Science Tech Institute (DSTI) Diplôme avec mention Très Bien.
 
 ---
 
-## Au-delà du Code : Mes Passions
+## Au-delà du Code : "Jusqu'à l'infini et au delà :-)!"
 
-* **Alpinisme & Escalade :** Rigueur, gestion du risque et résilience !
+* **Escalade :** L'école de la gestion du risque et de la résilience
+* **Alpinisme :** Escalade ... juste le niveau d'au dessus !!
 * **Danses Swing :** Pour la musique, celle que adoucit les moeurs, l'écoute de l'autre, la créativité et l'improvisation.
 
 ---
