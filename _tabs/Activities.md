@@ -27,4 +27,4 @@ Gestion du risque ... et de la cordée !
 ## Danse
 
 Balboa & Lindy Hop
-troisièmes au "Chanpionats du monde de Lindy Hop au USA" (Essentiellement grâce à la qualité de ma cavalière, ne nous cachon pas!)
+troisièmes au "Chanpionats du monde de Lindy Hop au USA" (Essentiellement grâce à la qualité de ma cavalière, ne nous cachons pas!)
