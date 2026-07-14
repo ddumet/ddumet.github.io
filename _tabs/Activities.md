@@ -5,31 +5,26 @@ icon: fas fa-mountain
 order: 2
 ---
 
-Beyond my technical focus in Artificial Intelligence and Machine Learning, I dedicate my free time to highly active physical pursuits that challenge my problem-solving, endurance, and artistic expression.
+Au delà de mon expertise professionnelle, j'aime me resourcer au calme, en pleine nature, notament au sein de notre belle région !
 
 ---
 
-## Rock Climbing
+## Escalade: single pitch ou Grande voies
 
-My climbing focus revolves around technical rock mastery, mental focus, and solving physical problems on the vertical wall.
-
-![Rock Climbing](/assets/img/climbing/climbing_main.jpg)
-*Focus, discipline, and physical problem-solving on rock routes.*
+Plus de trente années d'escalade dans nos massifs (La Turbie, les Gorges du loup, Saint-Jeannet, Aiglun ... et le Verdon bien sûr!), ainsi qu'en Espagne.
 
 ---
 
-## Mountaineering
+## Montagne
 
-High-altitude alpine expeditions allow me to push my personal limits, practice precise risk assessment under pressure, and navigate alpine environments.
+Escalade ++ !
+Gestion du risque ... et de la cordée !
 
-![Mountaineering](/assets/img/mountaineering/mountain_main.jpg)
-*Navigating technical ridges and high-altitude alpine ascents.*
+**Notamment**: Haute Route Chamonix - Zermatt en 2025
 
 ---
 
-## Dance
+## Danse
 
-Swing dancing provides a fantastic creative and rhythmic release, focusing heavily on non-verbal communication, rhythm synchronization, and partner connection.
-
-![Dance Expression](/assets/img/dance/dance_main.jpg)
-*Exploring choreography, expression, and rhythm on the dancefloor.*
+Balboa & Lindy Hop
+troisièmes au "Chanpionats du monde de Lindy Hop au USA" (Essentiellement grâce à la qualité de ma cavalière, ne nous cachon pas!)
