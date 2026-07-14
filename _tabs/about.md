@@ -70,6 +70,6 @@ Contributeur principal et Project Manager pour le projet européen **GRACED**, v
 
 ## Me contacter
 
-* **Email :** [didier.dumet@gmail.com]  
+* **Email :** [didier.dumet@gmail.com]
 * **LinkedIn :** [linkedin.com/in/didier-dumet](https://www.linkedin.com/in/didier-dumet-24585a5/)
 * **GitHub :** [github.com/ddumet](https://github.com/ddumet)
