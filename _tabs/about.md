@@ -9,7 +9,7 @@ permalink: /about/
 ## Ingénieur Machine Learning & Architecte Solutions
 
 Passionnée par l'Intelligence Artificielle depuis mes premiers cours avec **Andrew Ng** en 2018, et fort d'un solide bagage en architecture télécoms grâce à mes 12 annèes passé avec Vodafone (Londres), j'aime mettre la technique au service de l'humain pour construire des solutions concrètes.
-Autonome et résilient, je m'épanouis pleinement dans le partage avec mes collègues et l'apprentissage continu.
+Autonome et résilient, je m'épanouis pleinement dans le partage avec mes collègues et l'apprentissage en  continu!
 
 ---
 
@@ -63,13 +63,13 @@ Contributeur principal et Project Manager pour le projet européen **GRACED**, v
 ## Au-delà du Code : "Jusqu'à l'infini et au delà :-)!"
 
 * **Escalade :** L'école de la gestion du risque et de la résilience
-* **Alpinisme :** Escalade ... juste le niveau d'au dessus !!
+* **Alpinisme :** Escalade,  juste le niveau d'au dessus !!
 * **Danses Swing :** Pour la musique, celle que adoucit les moeurs, l'écoute de l'autre, la créativité et l'improvisation.
 
 ---
 
 ## Me contacter
 
-* **Email :** [didier.dumet@gmail.com]  
+* **Email :** [didier.dumet@gmail.com]
 * **LinkedIn :** [linkedin.com/in/didier-dumet](https://www.linkedin.com/in/didier-dumet-24585a5/)
 * **GitHub :** [github.com/ddumet](https://github.com/ddumet)
