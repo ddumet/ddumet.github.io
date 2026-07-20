@@ -1,7 +1,7 @@
 ---
 title: Projet Européen GRACED — Capteurs photoniques pour la sécurité alimentaire
 date: 2022-12-31 12:00:00 +0200
-categories: [Projets Pro @EGM, Projets Européen]
+categories: [Projets Professionel @EGM, Projets Européen]
 tags: [data-pipelines, photonics, agritech, edge-computing, IoT & Cloud]
 description: Management technique et développement de pipelines de données pour l'analyse en temps réel des contaminants sur les fruits et légumes via des capteurs photoniques innovants.
 ---
