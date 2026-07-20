@@ -22,13 +22,13 @@ Pilotage des stratégies architecturales pour les plateformes critiques OSS/BSS 
 
 * **Gestion du cycle de vie complet du développement:** Assurant la supervision technique et le contrôle qualité, de la conception jusqu'à la mise en production.**
 
-## Architecture de service pour le projet« Secure Family »
+## Architecture de service pour le projet « Secure Family »
 
-Architecture de la solution technique pour le service de contrôle parental « Secure Family », en l'alignant sur la stratégie SOA de l'entreprise pour garantir réutilisabilité et évolutivité.
+* **Architecture de la solution technique pour le service de contrôle parental « Secure Family »:** Alignant sur la stratégie SOA de l'entreprise pour garantir réutilisabilité et évolutivité.
 
-Définition des spécifications HLD et LLD, intégrant avec succès ce nouveau service dans l'écosystème SOA existant, pour accélérer la mise sur le marché (time-to-market).
+* **Définition des spécifications HLD et LLD:** Intégration avec succès de ce nouveau service dans l'écosystème SOA existant, qui a permis l'accélérarion de sa mise sur le maché pour accélérer (time-to-market).
 
-Leadership technique et gouvernance active lors de la phase d'implémentation pour assurer le strict respect des spécifications de conception et des normes de performance.
+* **Leadership technique et gouvernance:** Contrôle des phases d'implémentation pour assurer le strict respect des spécifications de conception et des normes de performance.
 
 * **Environnement technique**
 
