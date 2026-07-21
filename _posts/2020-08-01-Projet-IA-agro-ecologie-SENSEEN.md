@@ -6,7 +6,7 @@ tags: [machine-learning, python, agro-tech, web-services]
 description: Développement et déploiement de modèles prédictifs basés sur des données multi-modales (spectrométrie NIR, sols, météo) pour le suivi de la santé des plantes.
 ---
 
-Dans le cadre de mes fonctions en tant qu'Ingénieur Machine Learning chez **Senseen**, j'ai orchestré la conception et le déploiement opérationnel de modèles d'intelligence artificielle destinés à l'agriculture. L'objectif principal était de fournir aux viticulteurs et agriculteurs un outil d'aide à la décision fiable, pour monitorer la santé des végétaux.
+En tant qu'Ingénieur en Machine Learning chez **Senseen**, j'ai orchestré la conception et le déploiement opérationnel de modèles d'intelligence artificielle destinés à l'agriculture. L'objectif principal était de fournir aux viticulteurs et agriculteurs un outil d'aide à la décision fiable, pour monitorer la santé des végétaux.
 
 ## Le Défi Technologique
 
