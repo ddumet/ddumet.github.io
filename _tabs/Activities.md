@@ -20,10 +20,10 @@ Plus de trente années d'escalade dans nos massifs (La Turbie, les Gorges du lou
 Escalade ++ !
 Gestion du risque ... et de la cordée !
 
-Notamment, Haute route Chamonix - Zermatt (2025)
+** Haute route Chamonix - Zermatt (2025)
 
 <div style="position: relative; padding-bottom: 58.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 24px;">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkVdJTaHGv1BerEsJYhbv5mYQLt53L1a01bI_cq3gkIZqtdqYaIJKXtauJ5HpHCg/pubembed?start=true&loop=false&delayms=3000" frameborder="0" width="1920" height="1309" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkVdJTaHGv1BerEsJYhbv5mYQLt53L1a01bI_cq3gkIZqtdqYaIJKXtauJ5HpHCg/pubembed?start=true&loop=false&delayms=3000" frameborder="0" width="640" height="655" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 ## Danse
